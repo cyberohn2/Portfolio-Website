@@ -1,0 +1,74 @@
+[
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-1.jpg",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"application"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-2.png",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"ui"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-3.jpg",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"graphics"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-4.png",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"webdev"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-5.png",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"application"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-6.png",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"ui"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-7.png",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"graphics"
+    },
+    {
+        "projectNo": 1,
+        "view": "#",
+        "repo": "#",
+        "img": "./Assets/project-8.jpg",
+        "title": "Finance",
+        "type": "Web Development",
+        "dataType":"webdev"
+    }
+]
